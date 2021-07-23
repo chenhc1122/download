@@ -1,0 +1,7 @@
+com\yqz\download\controller\UserController.class
+com\yqz\download\pojo\User.class
+com\yqz\download\controller\UploadController.class
+com\yqz\download\DownloadDemoApplication.class
+com\yqz\download\pojo\Result.class
+com\yqz\download\service\UserService.class
+com\yqz\download\Mapper\UserMapper.class
